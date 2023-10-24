@@ -6,7 +6,9 @@ def main():
 def main_v1():
     print("we designed first main function)
     name = input("Enter your name: ")
-    print("Your name is:",name)
+    last = input("Enter your last name: ")
+    print("Your name is:",name,end=" ")
+    print("Your surname is:",last)
 
 if __name__ == "__main__":
     main()
