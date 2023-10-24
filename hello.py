@@ -9,6 +9,7 @@ def main_v1():
     last = input("Enter your last name: ")
     print("Your name is:",name,end=" ")
     print("Your surname is:",last)
+    print("Say, Hello")
 
 if __name__ == "__main__":
     main()
