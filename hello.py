@@ -12,6 +12,7 @@ def main_v1():
     print("Say, Hello")
     print("Say, Hi")
     print("Say, Hi form GUI Git")
+    print("Say, Hi form CLI Git")
 
 if __name__ == "__main__":
     main()
