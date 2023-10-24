@@ -10,6 +10,7 @@ def main_v1():
     print("Your name is:",name,end=" ")
     print("Your surname is:",last)
     print("Say, Hello")
+    print("Say, Hi form GUI Git")
 
 if __name__ == "__main__":
     main()
